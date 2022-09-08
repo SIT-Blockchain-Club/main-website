@@ -674,7 +674,7 @@ section {
   z-index: 1;
 }
 
-.portfolio .portfolio-wrap::before {
+/* .portfolio .portfolio-wrap::before {
   content: "";
   background: rgba(122, 105, 96, 0.6);
   position: absolute;
@@ -684,7 +684,7 @@ section {
   bottom: 0;
   transition: all ease-in-out 0.3s;
   z-index: 2;
-}
+} */
 
 .portfolio .portfolio-wrap img {
   transition: 0.3s;
@@ -1145,7 +1145,7 @@ section {
   padding: 15px;
 }
 
-.contact .php-email-form .loading:before {
+/* .contact .php-email-form .loading:before {
   content: "";
   display: inline-block;
   border-radius: 50%;
@@ -1156,7 +1156,7 @@ section {
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
-}
+} */
 
 .contact .php-email-form input,
 .contact .php-email-form textarea {
